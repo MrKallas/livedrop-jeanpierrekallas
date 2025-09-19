@@ -19,31 +19,31 @@ This is my solution to the system design exercise for Live Drops. I designed the
 
 ## 2) System Diagram (Excalidraw)
 
-[Excalidraw Link — System Diagram](https://excalidraw.com)
+https://excalidraw.com/#json=dsg1ggeKXtvb5ND9ScWS-,9wd5Ay2iAilL0EsomahcPw
 
 ---
 
 ## 3) Data Model — ER Diagram (Excalidraw)
 
-[Excalidraw Link — ER Diagram](https://excalidraw.com)
+https://excalidraw.com/#json=5pF5hM_C92AuMOh9K_w43,XaC-4bAtGBQ-PfQOOHHMrw
 
 ---
 
 ## 4) Order Flow — No Oversell (Excalidraw)
 
-[Excalidraw Link — Order Flow](https://excalidraw.com)
+https://excalidraw.com/#json=in87TRl-4RSa4o0ak5M4h,DzPGftL_pyrhgoqsfhvm7A
 
 ---
 
 ## 5) Pagination Flow (Excalidraw)
 
-[Excalidraw Link — Pagination Flow](https://excalidraw.com)
+https://excalidraw.com/#json=G5RUqjN7gOo0ZfspiUYlg,phbN9zwQbKHqHjQ61E3eyA
 
 ---
 
 ## 6) Notifications Fanout (Excalidraw)
 
-[Excalidraw Link — Notifications Fanout](https://excalidraw.com)
+https://excalidraw.com/#json=Jb9vgOnzUF_8RicgbpFHX,u-G5SNGi-vsXk45OWbRuWQ
 
 ---
 
