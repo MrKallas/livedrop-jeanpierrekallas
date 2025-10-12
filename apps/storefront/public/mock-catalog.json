@@ -1,0 +1,5 @@
+[
+  {"id":"sku-1","title":"Basic Tee","price":19.99,"image":"/logo.svg","tags":["apparel","tee"],"stockQty":42},
+  {"id":"sku-2","title":"Crew Socks","price":7.99,"image":"/logo.svg","tags":["apparel","socks"],"stockQty":30},
+  {"id":"sku-3","title":"Cap","price":15.00,"image":"/logo.svg","tags":["apparel","hat"],"stockQty":18}
+]
